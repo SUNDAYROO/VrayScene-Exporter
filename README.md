@@ -36,17 +36,6 @@ For example, CH_Lion_VraySceneFile_v004.ma was tested and took approximately 3 m
 
 If the tool does not work due to shared drive disconnections, run the included administrator_drive.bat file with administrative privileges.
 
-## Contributing
-Fork the repository.
-
-Create a new branch `git checkout -b feature-branch`
-
-Commit your changes `git commit -m 'Add new feature`
-
-Push to the branch `git push origin feature-branch`
-
-Create a new Pull Request.
-
 ## ReadMe.txt Guide
 Before running the tool, please refer to the ReadMe.txt file included in the package for detailed instructions and troubleshooting tips.
 
