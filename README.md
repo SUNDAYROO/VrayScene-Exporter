@@ -32,8 +32,6 @@ Administrative privileges for running the tool.
 ## Note
 If the scene is heavy, the export process may take some time.
 
-For example, CH_Lion_VraySceneFile_v004.ma was tested and took approximately 3 minutes.
-
 If the tool does not work due to shared drive disconnections, run the included administrator_drive.bat file with administrative privileges.
 
 ## ReadMe.txt Guide
